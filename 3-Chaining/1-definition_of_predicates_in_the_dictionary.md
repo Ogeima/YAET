@@ -10,11 +10,11 @@ The word before the parentheses is the Eberban word that represents the predicat
 
 The different letters surrounded by parentheses are the arguments that the predicate expects. They can be separated into two categories :
 - **the context argument c**, which is implicit and handled automatically by the grammar. It carries information about the context such as tense, location, etc. For now you don’t need to worry about it.
-- **the explicit arguments** : those are the ones that interact with the grammar. They are always in this order :
-	→ the first one is called e
-	→ the second one is called a
-	→ the third one is called o
-	→ the fourth one is called u
+- **the explicit arguments** : those are the ones that interact with the grammar. They are always in this order :\
+	→ the first one is called e\
+	→ the second one is called a\
+	→ the third one is called o\
+	→ the fourth one is called u\
 
 Finally, after this equal sign follows the definition of the predicate in plain English, where arguments previously found between parentheses are now between brackets. For now, you don’t need to understand the types of the arguments (which are expressed after the colon, for example *:tce\* pan*)
 
