@@ -9,6 +9,7 @@ If you *apply* the variable “Earth” to its first argument, you get the propo
 
 When a predicate is linked to **only one variable**, it is said to be a **property**.
  → Examples include [x is a planet], [x is earth], [x is a cat], [x is asleep], [x is happy], …
+
 When a predicate is linked to **two or more variables**, it is said to be a **relation**.
  → Examples include [x gives y to z], [x eats y], [x loves y], …
 But remember “proposition” and “relation” are just more precise words than “predicate” : both [x is a planet] and [x gives y to z] are predicates.
