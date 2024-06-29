@@ -14,7 +14,7 @@ The different letters surrounded by parentheses are the arguments that the predi
 	→ the first one is called e\
 	→ the second one is called a\
 	→ the third one is called o\
-	→ the fourth one is called u\
+	→ the fourth one is called u
 
 Finally, after this equal sign follows the definition of the predicate in plain English, where arguments previously found between parentheses are now between brackets. For now, you don’t need to understand the types of the arguments (which are expressed after the colon, for example *:tce\* pan*)
 
