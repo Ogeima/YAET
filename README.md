@@ -5,5 +5,5 @@ The reference grammar of Eberban gives a comprehensive overview of the language 
 This is why I chose to write this tutorial, both to deepen my own understanding of Eberban sentences and to enable others to start learning the language gently.
 
 This ressource is also a work in progress.
-If you find any errors or think something is unclear or would like to suggest something, contact me on the Eberban discord server : [ber supa](https://discord.gg/5PmntaCA).
+If you find any errors or think something is unclear or would like to suggest something, contact me on the Eberban discord server : [ber spua](https://discord.gg/5PmntaCA).
 Also keep in mind that English is not my native language :)
