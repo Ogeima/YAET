@@ -1,11 +1,11 @@
-Now we are finally ready to talk about chaining!
-The whole point of the Eberban grammar is to combine a lot of predicates into one big predicate that has our expected meaning. One way of combining predicates is process called chaining.
+Now we are finally ready to talk about chaining!\
+The whole point of the Eberban grammar is to combine a lot of predicates into one big predicate that has our expected meaning. One way of combining predicates is the process called chaining.
 
-**Chaining occurs when two predicates are juxtaposed next to each other**, and it transforms those two predicates into one predicate **which has the same set of arguments as the original left predicate.
+**Chaining occurs when two predicates are juxtaposed next to each other**, and it transforms those two predicates into one predicate **which has the same set of arguments as the original left predicate**.\
 When more than two predicates are juxtaposed, chaining occurs from right to left as such : (X (Y Z))
 
-The default chaining behavior of the left predicate is determined by its transitivity :\
- - if the predicate ends with the letter “n”, “r” or “l”, **then it has an intransitive behavior and its e place will interact with the right predicate**.
+The default chaining behavior of the left predicate is determined by its transitivity :
+ - if the predicate ends with the letter “n”, “r” or “l”, **then it has an intransitive behavior and its e place will interact with the right predicate**.\
     → Examples include mian and meon and miun.
  - if the predicate ends with any other letter, **then it has a transitive behavior and its a place will interact with the right predicate**.\
     → The only example here is buri.
