@@ -1,3 +1,5 @@
+# Predicates
+
 The most important thing one must understand when starting to learn Eberban is that typical parts of speech that can be found in natural languages do not exist.
 Indeed, **the only two parts of speech in Eberban are predicates and particles**. The latter will be covered latter, and we will focus on predicates for now.
 

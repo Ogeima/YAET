@@ -5,8 +5,9 @@
 If the argument selected for chaining (remember e or a depending on the transitivity of the left predicate) expects an atom, then the right predicate will first be changed so that it has exactly one argument : e (this change is done through AMR by filling the other arguments by existential variables), and then the result of the chaining will be a predicate made from a combination of the left and the right predicate where the selected argument of the left predicate is shared with the e argument of the right one.\
 Lets take a few example to make this more clear :
 
-Lets examine the chaining process in the sentence “mian miun”.\
-1) Take a look at the left predicate : is it transitive ? intransitive ? Because mian ends with the letter n, it has an intransitive behavior. Thus, the argument of mian that will interact with miun will be e.
+Lets examine the chaining process in the sentence “mian miun”.
+1) Take a look at the left predicate : is it transitive ? intransitive ?\
+Because mian ends with the letter n, it has an intransitive behavior. Thus, the argument of mian that will interact with miun will be e.
 2) So the e argument of mian and the e argument of miun will be shared.
 3) Does the right predicate have exactly one argument (the e argument) ? Yes! So no need to use the AMR, great!
 3) Now we can share the arguments and we end up with the predicate “e is a cat / field / member of family Felidae AND e sleeps”.
@@ -19,7 +20,7 @@ There you go ! Your first Eberban sentence : “a cat sleeps” → “mian miun
 Let’s take another slightly more difficult example to be sure everything is clear.\
 Try to go through the same process as before to understand the meaning of “mian buri meon”.
 
-Here is the solution :\
+Here is the solution :
 1) Three predicates are strung one after the other, but chaining works on only two predicates at a time. So we start from left to right as such : (mian (buri meon)).
 2) Lets apply chaining on “buri meon” :
 	1) Look at the left predicate : is it transitive ? Intransitive ? Because it does not end with the letter “n”, “r” nor “l”, it has a transitive behavior. Thus its a argument will interact with meon.
@@ -43,12 +44,12 @@ There you go! If you understood correctly those two examples, then you will be a
 
 Here is some new vocabulary:
 
-dona(c, e, a) = [e:tce* pan] likes [a:tce* man]
-pra(c, e, a) = [e:tce* pan] loves [a:tce* man]
-zun(c, e) = [e:tce* pan] is a boy / man / male (gender)
-zin(c, e) = [e:tce* pan] is a girl / woman / female (gender)
-zear(c, e) = [e:tce* pan] is a book
-fleon(c, e) = [e:tce* pan] is music
+ - dona(c, e, a) = [e:tce* pan] likes [a:tce* man]
+ - pra(c, e, a) = [e:tce* pan] loves [a:tce* man]
+ - zun(c, e) = [e:tce* pan] is a boy / man / male (gender)
+ - zin(c, e) = [e:tce* pan] is a girl / woman / female (gender)
+ - zear(c, e) = [e:tce* pan] is a book
+ - fleon(c, e) = [e:tce* pan] is music
 
 Try to create the following sentences. (Do not hesitate to recreate the same process as shown above. Doing it by yourselves a few time will greatly improve your comprehension).
 

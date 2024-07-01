@@ -1,3 +1,5 @@
+# Definition of predicates in the Eberban dictionary
+
 Before explaining chaining, lets see how predicates are defined in the [Eberban dictionary](https://eberban.github.io/eberban/web/dictionary.html#).
 
 Here are four examples :

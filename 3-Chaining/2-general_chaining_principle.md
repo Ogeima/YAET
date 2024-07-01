@@ -1,3 +1,5 @@
+# General principles of chaining
+
 Now we are finally ready to talk about chaining!\
 The whole point of the Eberban grammar is to combine a lot of predicates into one big predicate that has our expected meaning. One way of combining predicates is the process called chaining.
 
