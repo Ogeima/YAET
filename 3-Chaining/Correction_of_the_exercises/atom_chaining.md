@@ -5,4 +5,4 @@ zun dona zear.
 zin dona fleon.
 
 ### A girl loves a boy
-zin dona zun.
+zin pra zun.
