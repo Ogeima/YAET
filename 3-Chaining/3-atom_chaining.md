@@ -35,7 +35,7 @@ Here is the solution :
 	Our new right predicate is now “e eats something that exists and that is an apple” which can be rephrased as “e eats an apple”.
 	4) We can now share the mian’s e argument with the e argument of “e eats an apple”. We get the resulting predicate : “e is cat AND e eats an apple”
 
-5) Now that our entire sentence has been reduced to only a single predicate, we can perform one last time the AMR on it, to get the proposition : “there exists something which is a cat and which eats an apple”. This proposition can be rephrased as “A cat eats a apple” (which is probably false).
+5) Now that our entire sentence has been reduced to only a single predicate, we can perform one last time the AMR on it, to get the proposition : “there exists something which is a cat and which eats an apple”. This proposition can be rephrased as “A cat eats an apple” (which is probably false).
 
 There you go! If you understood correctly those two examples, then you will be able to reproduce the same logic on any sentences (with only atom chaining of course, we haven’t covered predicate chaining yet) ! You can now even start to create your own simple sentences.
 
