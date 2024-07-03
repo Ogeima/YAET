@@ -6,7 +6,7 @@ You learned that arguments can either be atom arguments or predicate arguments.
 In the previous section, you discovered the basics on how to chain an atom argument, let’s now explore chaining with predicate arguments...
 
 First things first, in the dictionary, predicate arguments are denoted between parentheses.\
-For example :\
+For example :
  - tcu(c, e, A) = [e:tcui p] is the (non-empty) set of all things that individually satisfy **A:(tca p)**
 
 The number of arguments inside the parentheses indicates the expected number of arguments for a predicate that could be linked with that slot.
@@ -27,7 +27,7 @@ Now that we know how predicate arguments are defined, let’s talk about the cha
 1) Depending on the left predicate’s transitivity, we know which of its slots interacts with the right predicate (e for intransitive predicates and a for transitive predicates).
 2) The AMR reduces the right predicate to make it match the expected number of arguments required by the predicate argument of the left predicate.
 3) Finally the predicate resulting of the chaining is the same predicate as the left one, expect its e or a slot is said to be equivalent to the right reduced predicate.\
-The left predicate's argument linked to the right predicate does not disappear : **re that the resulting predicate of any chaining process has always the same arguments as the left predicate**.
+The left predicate's argument linked to the right predicate does not disappear : **remember that the resulting predicate of any chaining process has always the same arguments as the left predicate**.
 
 Let’s take an example and try to decipher the sentence : “mi gli mo kini e ber ban.” *(e ber ban is a compound to mean “the erbanic language”, just imagine it as being a property with an intransitive behavior)*
 
